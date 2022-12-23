@@ -1,2 +1,1 @@
-SQL/** linguist-document=false
-SQL/** linguist-vendored=false
+SQL/**/.sql linguist-detectable=true
